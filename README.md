@@ -3,10 +3,10 @@
 This is the archived repository for PowerSynth 1 (v1.0-v1.4).
 The newer version of PowerSynth 2 (v1.9-v2.x) will be located in the new PowerSynth repository.
 
-This release series is developed originally by the [MSCAD Lab](https://mscad.uark.edu/) and then joinly with the [E3DA Lab](https://e3da.csce.uark.edu/), at University of Arkansas. For details, refer to the [PowerSynth Release Website](https://e3da.csce.uark.edu/release/PowerSynth/)
+This release series is developed originally by the [MSCAD Lab](https://mscad.uark.edu/) and then joinly with the [E3DA Lab](https://e3da.csce.uark.edu/), at University of Arkansas. The PowerSynth 1 project is co-directed by [Prof. Alan Mantooth](https://engineering.uark.edu/directory/index/uid/mantooth/name/Alan+Mantooth/) and [Prof. Yarui Peng](https://engineering.uark.edu/directory/index/uid/yrpeng/name/Yarui+Peng/). For details about the PowerSynth project and software, refer to the [PowerSynth Release Website](https://e3da.csce.uark.edu/release/PowerSynth/).
 
 This repositoty only includes the source code portion. Other necessary data files, manuals, and packaging materials are included in the PowerCAD-Full repository. 
-The source code is mainly developed with Python 2.7 on Windows platform. 
+The source code is mainly developed with Python 2.7 on the Windows platform.
 
 Due to the obsolete nature of the code development, it is mainly kepted for archival purpose. With latest development efforts have since shift to PowerSynth 2. 
 
